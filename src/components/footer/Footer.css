@@ -1,0 +1,18 @@
+/* .container-flex p{
+
+} */
+
+/* Add these styles to your existing CSS file */
+
+/* Style for the paragraph */
+p {
+    font-size: 18px; /* Adjust the font size */
+    line-height: 1.5; /* Set the line height for better readability */
+    margin-bottom: 20px; /* Add some bottom margin for spacing between paragraphs */
+    color: #454242; /* Set text color */
+    font-style: italic;
+    
+  }
+  
+ 
+  
